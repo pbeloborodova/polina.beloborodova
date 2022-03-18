@@ -11,12 +11,12 @@ abstract: "This is the first professional discussion in Russia aimed to unite th
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-02-28T19:00:00Z"
-date_end: "2022-02-28T20:00:00Z"
+date: "2020-10-23T16:00:00Z"
+date_end: "2020-10-23T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -51,5 +51,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- mindfulness
+- sustainability
 ---
