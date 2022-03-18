@@ -20,7 +20,7 @@ main:
     url: '#accomplishments'
     weight: 50
   - name: Conferences
-    url: '#event'
+    url: '#conferences'
     weight: 60
   - name: Publications
     url: '#featured'
