@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 70
 
-title: 'Public Talks'
+title: 'Recent & Upcoming Talks'
 subtitle:
 
 content:
@@ -19,8 +19,6 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    folders:
-      - talks
     author: ""
     category: ""
     tag: ""

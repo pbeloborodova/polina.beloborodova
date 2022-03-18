@@ -13,27 +13,15 @@ main:
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
-  - name: Experience
-    url: '#experience'
+  - name: Talks
+    url: '#talks'
     weight: 40
-  - name: Grants
-    url: '#accomplishments'
-    weight: 50
-  - name: Conferences
-    url: '#conferences'
-    weight: 60
   - name: Publications
     url: '#featured'
-    weight: 70
-  - name: Teaching
-    url: '#teaching'
-    weight: 80 
-  - name: Public Talks
-    url: '#talks'
-    weight: 90
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
