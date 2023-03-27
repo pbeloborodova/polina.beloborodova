@@ -12,8 +12,8 @@ authors:
 - Hadley Rahrig
 - Willoughby B. Britton
 
-# date: "2022-02-01T00:00:00Z"
-# doi: "https://doi.org/10.11621/pir.2019.0201"
+date: "2022-02-01T00:00:00Z"
+doi: "https://doi.org/10.11621/pir.2019.0201"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-10T00:00:00Z"
@@ -25,7 +25,7 @@ publishDate: "2022-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Coming soon in Psychophysiology
+publication: Psychophysiology
 
 abstract: Commonly conducted mindfulness-based trainings such as Mindfulness-based Stress Reduction (MBSR) and Mindfulness-based Cognitive Therapy (MBCT) highlight training in two key forms of meditation, focused attention (FA) and open monitoring (OM). Largely unknown is what each of these mindfulness practices contributes to emotional and other important training outcomes. This dismantling trial compared the effects of structurally equivalent trainings in MBCT, FA, and OM on neural and subjective markers of emotional reactivity and regulation among community adults, with the aim to better understand which forms of training represent active ingredients in mindfulness trainings. Participants with varying levels of depressive symptoms were randomized to one of the three trainings. Before and after each 8-week training, N = 89 participants completed a modified version of the Emotional Reactivity and Regulation Task (Jackson et al., 2003) while electroencephalographic (EEG) and self-reported emotional responses to negative, positive, and neutral photographic images were collected. Examination of EEG-based frontal alpha band asymmetry during passive viewing (reactivity) and active regulation phases of the task showed that FA and MBCT trainings produced significant leftward hemispheric shifts in frontal alpha asymmetry, commonly associated with a shift towards approach-based positive affect. Self-reported emotional responses to negative images corroborated these results, suggesting salutary changes in both emotional reactivity and regulation. OM training had limited beneficial effects, restricted to the subjective outcomes. The findings suggest that MBCT may derive its greatest benefit from training in FA rather than OM. Discussion highlights the potential value of FA training for emotional health.
 

@@ -12,7 +12,7 @@ authors:
 # doi: "https://doi.org/10.11621/pir.2019.0201"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: Coming soon in Oxford Handbook of Self-Determination Theory
+publication: Oxford Handbook of Self-Determination Theory
 
 abstract: Conceptualized as a receptive awareness of and attention to the present moment experience, mindfulness is regarded by Self-Determination Theory (SDT) as a critical psychological factor that facilitates the fulfilment of basic psychological needs for autonomy, relatedness, and competence. In this chapter, we review research that has shown that trait, state, and trained mindfulness are related to more autonomous functioning, greater social well-being and increased felt competence and task performance. Also discussed are proposed mechanisms that might explain those salutary effects, including a shift from automatic processing of experience to conscious attention regulation, and observation of experience without egoic identification. Testing those connections requires more experimental research, which we discuss as future research. Also discussed is the importance of intervention studies to examine the role of different mindfulness practices (e.g., focused attention vs. open monitoring) in promoting need satisfaction, and to investigate the interaction between mindfulness and need supportive vs. need frustrating environments.
 
@@ -31,9 +31,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Book website
-#   url: http://psychologyinrussia.com/volumes/index.php?article=7790
+links:
+- name: Book website
+  url: https://global.oup.com/academic/product/the-oxford-handbook-of-self-determination-theory-9780197600047
 
 url_pdf: ''
 url_code: ''

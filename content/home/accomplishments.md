@@ -23,6 +23,15 @@ subtitle:
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_end: "2024-01-01"
+  date_start: "2023-01-01"
+  description: "Animal mind perception and preference for plant- over meat-based foods (PI; $1,000)"
+  organization: APA Division 34
+  organization_url: https://www.mindandlife.org/grants/varela-grants/
+  title: Research Grant-in-Aid
+  url: "https://www.apadivisions.org/division-34/awards/div-34-research-grant"
+
+item:
 - date_end: "2023-01-01"
   date_start: "2022-01-01"
   description: "Effects and mechanisms of smartphone-based mindfulness training on emotional well-being in at-risk college students (PI; $20,000)"
