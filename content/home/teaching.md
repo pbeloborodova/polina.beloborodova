@@ -24,8 +24,8 @@ subtitle:
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 item:
-- date_end: "2022-05-01"
-  date_start: "2020-08-01"
+- date_end: "2023-08-01"
+  date_start: "2023-12-01"
   organization: Virginia Commonwealth University
   title: Multilevel Modelling (graduate), Primary Instructor
 
