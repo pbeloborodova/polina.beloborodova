@@ -31,9 +31,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Book website
-  url: https://global.oup.com/academic/product/the-oxford-handbook-of-self-determination-theory-9780197600047
+# links:
+# - name: Book website
+#   url: https://global.oup.com/academic/product/the-oxford-handbook-of-self-determination-theory-9780197600047
 
 url_pdf: ''
 url_code: ''
