@@ -22,6 +22,7 @@ subtitle:
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
 - date_end: "2022-05-01"
   date_start: "2020-08-01"
